@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @alvanfath
 - 👀 I’m interested in programming web or mobile
 - 🌱 I think i'm an otaku
-![](https://i.pinimg.com/originals/91/e7/ab/91e7abc05c237cbc7313b2d19d47d7e8.gif)
+
+
+
+![](https://i.pinimg.com/originals/1d/d2/09/1dd2095b4bb6919583a64c1d245856bb.gif)
 
 <!---
 alvanfath/alvanfath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
