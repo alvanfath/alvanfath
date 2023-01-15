@@ -4,7 +4,7 @@
 
 
 
-![]([https://i.pinimg.com/originals/1d/d2/09/1dd2095b4bb6919583a64c1d245856bb.gif](https://pin.it/1rmJgOl))
+![]([https://i.pinimg.com/originals/1d/d2/09/1dd2095b4bb6919583a64c1d245856bb.gif])
 
 <!---
 alvanfath/alvanfath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
