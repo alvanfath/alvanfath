@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alvanfath
 - 👀 I’m interested in programming web or mobile
-- 🌱 I think i'm an otaku
+- 🌱 i'm can make the website considering with security, performance, etc
 
 
 
